@@ -5,7 +5,7 @@
 This project is a Streamlit application that allows users to upload Python files for code review. It utilizes the LangChain library to provide detailed suggestions for improving the code. The application is designed to help developers enhance their code quality by receiving feedback on their Python scripts.
 
 ## Live Deployment
-You can access the live version of the project at: [Live Link](http://your-live-link.com)
+You can access the live version of the project at: [Live Link](https://code-analyser.streamlit.app/)
 
 ## Installation
 To install the necessary dependencies, run:
